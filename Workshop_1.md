@@ -90,7 +90,7 @@ public class HelloWorld : MonoBehaviour
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
+В ходе выполнения я установил и узнал как запускать Anaconda и unity
 
 | Plugin | README |
 | ------ | ------ |
