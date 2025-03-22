@@ -55,7 +55,7 @@
 Для генерации данного сценария используем скрипт:
 
 ```py
-mport gspread
+import gspread
 import numpy as np
 
 values = []
